@@ -42,7 +42,7 @@ h2 {
 
 .half-width {
     width: 50%;
-    padding-left: 10%;
+    padding-left: 100px;
 }
 
 .half-width img {
@@ -110,20 +110,18 @@ h2 {
 
 .develop-area {
     margin-bottom: 80px;
-    width: 90%;
+    width: 93%;
     margin-left: 5%;
-    margin-right: 5%;
+    margin-right: 25%;
     font-size: 18px;
 }
 
 .max-half-width {
     width: 60%;
-    margin-left: 1%;
 }
 
 .min-half-width {
     width: 40%;
-    margin-left: 5%;
 }
 
 .min-half-width img {
@@ -139,15 +137,24 @@ h2 {
     border-radius: 5px;
 }
 
-.corona {
-    width: 80%;
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-bottom: 100px;
+.hobbies {
+    width: 96%;
+    margin-bottom: 70px;
+    padding-left: 50px;
 }
 
-.half-width {
-    width: 50%;
+.one-third {
+    width: 30%;
+    margin: 10px;
+}
+
+.one-third img {
+    width: 100%;
+}
+
+.one-third h3 {
+    font-size: 20px;
+    text-align: center;
 }
 
 .footer {
